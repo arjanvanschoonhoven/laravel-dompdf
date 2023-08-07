@@ -50,7 +50,6 @@
         "fix-style": "phpcbf -p --standard=psr12 src/",
         "phpstan": "phpstan analyze --memory-limit=-1"
     },
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "allow-plugins": {
